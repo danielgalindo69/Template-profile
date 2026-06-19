@@ -122,7 +122,7 @@
       <p>
         <strong>Tecnologías:</strong><br/>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nextjs,supabase,postgresql,vercel,nestjs,docker" height="30"/>
+          <img src="https://skillicons.dev/icons?i=nextjs,supabase,postgresql,vercel,nestjs,docker,nodejs" height="30"/>
         </a>
       </p>
       <p>
