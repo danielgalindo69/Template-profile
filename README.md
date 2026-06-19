@@ -117,17 +117,17 @@
   </tr>
   <tr>
     <td width="50%" valign="top" style="padding: 10px;">
-      <h3>📦 Nombre del Proyecto 3</h3>
-      <p>Descripción breve del proyecto: qué problema resuelve, qué hace y cuál es su propósito principal.</p>
+      <h3>TEMPUS | aplicacion de gestion de tiempo</h3>
+      <p>La intencion de esta aplicacion es ayudar a esas personas que les cuesta estar enfocados y que tienden a procrastinar a que esten mas enfocados en lo que hacen, cuenta con sonidos de ambiente, cronometro inteligente y persistencia de las sesiones para que las personas vean un cambio real en si mismas</p>
       <p>
         <strong>Tecnologías:</strong><br/>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=py,fastapi,postgresql,vercel" height="30"/>
+          <img src="https://skillicons.dev/icons?i=nextjs,supabase,postgresql,vercel,nestjs,docker" height="30"/>
         </a>
       </p>
       <p>
-        <a href="https://tu-deploy-link.com">🌐 Ver despliegue</a> &nbsp;|&nbsp;
-        <a href="https://github.com/danielgalindo69/repo3">📂 Repositorio</a>
+        <a href="https://tempus-front-end.vercel.app/">🌐 Ver despliegue</a> &nbsp;|&nbsp;
+        <a href="https://github.com/danielgalindo69/Tempus">📂 Repositorio</a>
       </p>
     </td>
     <td width="50%" valign="top" style="padding: 10px;">
